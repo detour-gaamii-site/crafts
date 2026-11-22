@@ -1,0 +1,1 @@
+{"version":3,"file":"CG5Ju8rd.js","names":[],"sources":["../../src/ui/items/block/lego/method/gearTransmission/name.ts"],"sourcesContent":["export const name = 'gear-transmission'\n"],"mappings":"AAAA,IAAa,EAAO"}

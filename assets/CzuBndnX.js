@@ -1,0 +1,1 @@
+var e=`/crafts/assets/thumbnail-DbV1n4fd.mp4`;export{e as t};

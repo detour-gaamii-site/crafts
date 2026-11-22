@@ -1,0 +1,1 @@
+var e=`/crafts/assets/normal-CSOjeVJl.mp4`;export{e as t};
